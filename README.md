@@ -1,32 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        h1 {
-            font-size: 2.2em;
-            margin-bottom: 0.2em;
-        }
-        h2 {
-            font-size: 1.8em;
-            margin-bottom: 0.2em;
-            color: #333;
-        }
-        p {
-            margin: 0.8em 0;
-        }
-        ul {
-            margin: 0.8em 0;
-            padding-left: 20px;
-        }
-        li {
-            margin: 0.4em 0;
-        }
-    </style>
-</head>
 <body>
 
 <h1>LXTER Store Management System</h1>
